@@ -11,7 +11,7 @@ config_version=3
 [application]
 
 config/name="Title Screen"
-run/main_scene="res://ui/title-screen/TitleScreen.tscn"
+run/main_scene="res://title_screen/TitleScreen.tscn"
 config/icon="res://icon.png"
 
 [display]
