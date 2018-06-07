@@ -1,10 +1,10 @@
 [gd_scene load_steps=4 format=2]
 
-[ext_resource path="res://game/Game.gd" type="Script" id=1]
-[ext_resource path="res://ui/fonts/montserrat_eb_48.tres" type="DynamicFont" id=2]
-[ext_resource path="res://ui/fonts/montserrat_eb_24.tres" type="DynamicFont" id=3]
+[ext_resource path="res://game/return_to_title.gd" type="Script" id=1]
+[ext_resource path="res://title_screen/fonts/montserrat_eb_48.tres" type="DynamicFont" id=2]
+[ext_resource path="res://title_screen/fonts/montserrat_eb_24.tres" type="DynamicFont" id=3]
 
-[node name="Continue" type="Control"]
+[node name="Continue" type="Control" index="0"]
 
 anchor_left = 0.0
 anchor_top = 0.0
